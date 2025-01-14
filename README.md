@@ -36,8 +36,8 @@ The study focuses on understanding how spatial proximity affects traffic crash p
 1. Clone the repository:
 
 ```bash
-git clone [repository-url]
-cd [repository-name]
+git clone https://github.com/penny5283/Collision-Prediction-with-Transformer.git
+cd Collision-Prediction-with-Transformer
 ```
 
 2. Install required packages:
